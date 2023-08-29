@@ -24,3 +24,6 @@ use Azure Synapse Analytics to Load data from Gold layer to Power BI.
 
 and last step is to create simple Dashboard in Power BI.
 ![Dashboard.](powerbi.png)
+
+
+*Source tutorial from https://www.youtube.com/watch?v=iQ41WqhHglk&t=6890s&ab_channel=Mr.KTalksTech 
