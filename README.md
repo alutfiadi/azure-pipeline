@@ -11,3 +11,16 @@ The tools that are covered in this project are,
 6. Azure Active Directory (AAD) and
 7. Microsoft Power BI
 
+![End to End Azure Data Engineering.](azure-end-to-end.png)
+
+Use ADF for Data Ingestion from SQL on Premise to Azure Data Lake.
+![ADF for Data Ingestion.](adf-pipline.png)
+
+Use Databricks to Transform data from Bronze Layer to Gold layer with Python Notebook. 
+https://github.com/alutfiadi/azure-pipeline/tree/bcf8824aac07046543bc61f1ce68a9c23aa7b5fc/Databricks 
+
+use Azure Synapse Analytics to Load data from Gold layer to Power BI.
+![ Azure Synapse Analytic.](syn-pipeline.png)
+
+and last step is to create simple Dashboard in Power BI.
+![Dashboard.](powerbi.png)
